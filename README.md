@@ -12,7 +12,7 @@ create a venv and run as sudo (because the input-device requires root)
 
 
 - [x] bluetooth connection
-- [x] use multithreadingthread & queues 
+- [x] use multithreading & queues 
 - [x] scale/range values
 - [ ] improve shutdow/terminate
 - [ ] lock position with left fire button
