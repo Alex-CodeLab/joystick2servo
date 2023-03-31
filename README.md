@@ -19,3 +19,4 @@ create a venv and run as sudo (because the input-device requires root)
 - [ ] start at boot
 - [ ] sleep/pause when controller is off
 - [ ] replace servo motor with 12V DC motor 
+- [ ] add a CLI
